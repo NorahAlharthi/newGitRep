@@ -3,11 +3,9 @@ package newGitProject;
 public class TestGit {
 
 	
-	public void method2() {
-	System.out.print("2");
+	public void method1() {
+	System.out.print("1");
 	}
 	
-	public void method3() {
-	System.out.print("3");
-	}
+	
 }
