@@ -8,7 +8,7 @@ public class TestGit {
 	}
 	
 	public void method3() {
-		System.out.print("3");
+		System.out.print("33");
 		}
 	
 	
